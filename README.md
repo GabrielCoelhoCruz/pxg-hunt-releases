@@ -1,6 +1,6 @@
 # pxg-hunt-releases
 
-Public **artifacts-only** feed for [PXG Hunt Analyzer](https://github.com/GabrielCoelhoCruz/pxg-hunt-analyzer) Windows builds.
+Public **artifacts-only** feed for PXG Hunt Analyzer (private source repo) Windows builds.
 
 Contains installers / portable zips and `latest.yml` for `electron-updater`. **No application source.**
 
